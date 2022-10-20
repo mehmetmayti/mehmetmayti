@@ -1,4 +1,5 @@
 ### Hi there 👋 I'm Mehmet
+## I'm software/backend developer with .Net Core
 
 <hr>
 
