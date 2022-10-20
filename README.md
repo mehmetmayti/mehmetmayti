@@ -3,8 +3,11 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/mehmetmayti) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/mehmet_mayti/)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-000?style=quare&labelColor=000&logo=LinkedIn&logoColor=blue&link=link)](https://github.com/mehmetmayti) 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-000?style=quare&labelColor=000&logo=Gmail&logoColor=red&link=link)](mehmetmayti023@gmail.com) 
 
+<!--
+Github istatistikleri
+-->
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=mehmetmayti&show_icons=true&theme=gradient)
 
 <!--
 **mehmetmayti/mehmetmayti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
