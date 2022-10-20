@@ -28,7 +28,7 @@ Some information to get to know me:
 - 🔭 I’m currently working on B2B E-Commerce Web Site at Edumanetworks.
 - 🌱 I’m currently learning Node.js and Vue.js.
 - 👯 I am open to new job offers.
-- 💬 Ask me via LinkedIn: <a href="https://www.linkedin.com/in/mehmetmayti/" target="_blank">Contact</a>
+- 💬 Ask me via LinkedIn: <a href="https://www.linkedin.com/in/mehmetmayti/" target="blank">Contact</a>
 - 📫 How can i reach me by mail: mehmetmayti023@gmail.com
 - 😄 I like to research, solve problems and work with a team.
 - ⚡ Fun fact:fasfa ...
