@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Mehmet
 ## I'm software/backend developer with .Net Core
 
-<hr>
+
 
 Social Media:
 
@@ -10,7 +10,7 @@ Social Media:
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/mehmet_mayti/)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-000?style=quare&labelColor=000&logo=LinkedIn&logoColor=blue&link=link)](https://github.com/mehmetmayti) 
 
-<hr>
+##
 
 Statistics :
 <!--
@@ -18,6 +18,8 @@ Github istatistikleri
 -->
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=mehmetmayti&show_icons=true&theme=gradient)
 
+
+##
 <!--
 **mehmetmayti/mehmetmayti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
