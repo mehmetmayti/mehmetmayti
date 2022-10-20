@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Mehmet
-## I'm software/backend developer with .Net Core
+## I'm software/backend developer with .Net Core | It happens when I'm running as a fullstack
 
 
 
