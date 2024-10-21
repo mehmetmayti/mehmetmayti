@@ -33,5 +33,5 @@ Some information to get to know me:
 - 💬 Ask me via LinkedIn: <a href="https://www.linkedin.com/in/mehmetmayti/" target="blank">Contact</a>
 - 📫 How can i reach me by mail: mehmetmayti023@gmail.com
 - 😄 I like to research, solve problems and work with a team.
-- ⚡ Fun fact:fasfa ...
+- ⚡ Development.
 
